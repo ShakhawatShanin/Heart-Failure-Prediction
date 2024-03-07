@@ -1,0 +1,6 @@
+Flask
+scikit-learn
+pip install scikit-learn==1.2.2
+numpy
+pandas
+matplotlib
